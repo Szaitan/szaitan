@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi everyone, I'm Michał Krepiniewicz👋
 
+* 😄 I've been working mostly with Python for almost 2 years,
+* ⚡ I learned Go and JavaScript in this year (2024),
+* 📫 Here is my Linekdin: https://www.linkedin.com/in/micha%C5%82-krepiniewicz-b21161178/
+* 🔭 Most of my time, I'm spending learning and improving my programming skills. 
 <!--
 **Szaitan/szaitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
