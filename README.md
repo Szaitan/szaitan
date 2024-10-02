@@ -3,6 +3,7 @@
 * On daily basis I'm civils project manager working in Poland who found interest in programming. 
 * 😄 My journey with programming started in 2022 with Python and remains till today,
 * ⚡ I learned CI/CD, Docker, Go in this year (2024),
+* 🌱 Right now im going to focus on better understanding of JavaScript so i can later focu on learning React. 
 * 📫 Here is my Linekdin profile: https://www.linkedin.com/in/micha%C5%82-krepiniewicz-b21161178/
 * 🔭 Most of my free time, I'm spending learning and improving my programming skills. 
 <!--
